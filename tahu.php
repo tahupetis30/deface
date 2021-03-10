@@ -4,7 +4,7 @@ echo   "\n";
 echo   "_____________________________________\n";
 echo   "[-]   Coded :TahPetis KediriBlackHat|\n";
 echo   "_____________________________________\n";
-echo   "[-]   Deface Menu :\n";             |\n";
+echo   "[-]   Deface Menu :                 |\n";
 echo   "____________________________________|\n";
 echo   "[1]   Career resume file upload\n"; |\n";
 echo   "[2]   Open journal system\n";       |\n";
