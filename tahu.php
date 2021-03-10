@@ -24,4 +24,4 @@ if($pil     ==    3){
 if($pil     ==    4){
        system('exit');
                 }
->?
+?>
