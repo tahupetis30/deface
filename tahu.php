@@ -16,7 +16,7 @@ if($pil     ==  1){
       system('git clone https://github.com/Aldibima30/crfu');
                }
 if($pil     ==   2){
-       system('git clone https://github.com/tahupetis30/ojs/blob/main/ojs.php');
+       system('git clone https://github.com/tahupetis30/ojs');
                }
 if($pil     ==    3){
        system('isisissss ajaaaa');
