@@ -22,6 +22,6 @@ if($pil     ==    3){
        system('isisissss ajaaaa');
                 }
 if($pil     ==    4){
-       system('exit')
+       system('exit');
                 }
 >?
