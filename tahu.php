@@ -1,15 +1,17 @@
 <?php
 system('clear');
 echo   "\n";
-echo   "_______________________\n";
-echo   "[+]   Menu  :\n";
-echo   "_______________________\n";
-echo   "[1]   Career resume file upload\n";
-echo   "[2]   Open journal system\n";
-echo   "[3]   Slims Mass Exploit\n";
-echo   "[4]   Keluar tuan\n";
-echo   "________________________\n";
-echo   "[+]   Pilih     :\n";
+echo   "_____________________________________\n";
+echo   "[-]   Coded :TahPetis KediriBlackHat|\n";
+echo   "_____________________________________\n";
+echo   "[-]   Deface Menu :\n";             |\n";
+echo   "____________________________________|\n";
+echo   "[1]   Career resume file upload\n"; |\n";
+echo   "[2]   Open journal system\n";       |\n";
+echo   "[3]   Slims Mass Exploit\n";        |\n";
+echo   "[4]   Keluar tuan\n";               |\n";
+echo   "_____________________________________\n";
+echo   "[-]   Pilih     :\n";
 echo   "\n    ==>  ";
 $pil     = trim(fgets(STDIN));
 if($pil     ==  1){
