@@ -16,7 +16,7 @@ if($pil     ==  1){
       system('git clone https://github.com/Aldibima30/crfu');
                }
 if($pil     ==   2){
-       system('https://github.com/Aldibima30/ojs-dir-scaner');
+       system('git clone https://github.com/tahupetis30/ojs/blob/main/ojs.php');
                }
 if($pil     ==    3){
        system('isisissss ajaaaa');
