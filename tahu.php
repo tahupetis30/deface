@@ -21,7 +21,7 @@ if($pil     ==   2){
        system('git clone https://github.com/tahupetis30/ojs');
                }
 if($pil     ==    3){
-       system('isisissss ajaaaa');
+       system('Masih Perbaikan');
                 }
 if($pil     ==    4){
        system('exit');
