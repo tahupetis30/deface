@@ -2,16 +2,16 @@
 system('clear');
 echo   "\n";
 echo   "______________________________________\n";
-echo   "[-]Author :TahuPetis KediriBlackHat[-]\n";
+echo   "[-] Author :TahuPetis KediriBlackHat[-]\n";
 echo   "______________________________________\n";
-echo   "[-]Deface Menu :                     |\n";
+echo   "[-] Deface Menu :                     |\n";
 echo   "_____________________________________|\n";
-echo   "[1]Career resume file upload         |\n";
-echo   "[2]Open journal system               |\n";
-echo   "[3]Slims Mass Exploit                |\n";
-echo   "[4]Keluar tuan                       |\n";
+echo   "[1] Career resume file upload         |\n";
+echo   "[2] Open journal system               |\n";
+echo   "[3] Slims Mass Exploit                |\n";
+echo   "[4] Keluar tuan                       |\n";
 echo   "______________________________________\n";
-echo   "[-]Pilih :\n";
+echo   "[-] Pilih :\n";
 echo   "\n  ==>  ";
 $pil     = trim(fgets(STDIN));
 if($pil     ==  1){
