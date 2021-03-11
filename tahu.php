@@ -1,8 +1,8 @@
 <?php
 system('clear');
 echo   "\n";
-echo   "_______________________________________\n";
-echo   "[-] Author :Tahu Petis                [-]\n";
+echo   "______________________________________\n";
+echo   "[-] Author :Tahu Petis              [-]\n";
 echo   "______________________________________\n";
 echo   "[-] Team   :Kediri Black Hat          |\n";
 echo   "______________________________________|\n";
@@ -10,7 +10,7 @@ echo   "[1] Career resume file upload         |\n";
 echo   "[2] Open journal system               |\n";
 echo   "[3] Slims Mass Exploit                |\n";
 echo   "[4] Keluar tuan                       |\n";
-echo   "_______________________________________\n";
+echo   "______________________________________\n";
 echo   "[-] Pilih :\n";
 echo   "\n  ==>  ";
 $pil     = trim(fgets(STDIN));
